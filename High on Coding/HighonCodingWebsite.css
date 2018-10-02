@@ -1,0 +1,47 @@
+.menu {
+
+    height: 40px;
+    width: auto;
+    margin: auto;
+    background-color: #08c;
+    color: white;
+  }
+
+ a {
+   color: white;
+ }
+ .reviews {
+   background-color: #dfe6e9;
+ }
+
+h4 {
+  color: #08c;
+  margin-bottom: 0px;
+}
+
+h6 {
+  background-color: #e17055;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 0.67em;
+}
+
+element.style {
+  margin-bottom: 0px;
+
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+.boxed {
+    background-color: #dfe6e9;
+
+    width: 100px;
+    height: 100;
+
+}
